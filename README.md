@@ -23,5 +23,5 @@ The user can manipulate pixels, the basic unit of programmable color on a comput
 - Save the modified image to the specified output_path.
 
 ## Repository Contents
-- ``PRODIGY_CS_01.py`` : The main Python script containing the implementation of the Caesar Cipher.
+- ``PRODIGY_CS_02.py`` : The main Python script containing the implementation of the Caesar Cipher.
 - ``README.md`` : This file, providing an overview of the task and the project.
